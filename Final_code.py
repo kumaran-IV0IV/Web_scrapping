@@ -2,7 +2,7 @@
 """
 Created on Mon May 13 21:11:56 2019
 
-@author: Cpt.SriRaja
+
 """
 import xlsxwriter
 from bs4 import BeautifulSoup
